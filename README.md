@@ -11,11 +11,11 @@ Giallo Booleano
 * La grandezza del titolo diventa più grande.
 * Le informazioni della ricetta sotto il video si dispongono a griglia.
 * I bottoni social si allargano.
-* Compare il banner pubblicitario
+* Compare il banner pubblicitario.
 * L’immagine nella descrizione della ricetta viene circondata dal testo.
 
 2. Modalità Desktop (sopra i 992px):
-* La grandezza el titolo della ricetta aumenta ancora di più.
+* La grandezza del titolo della ricetta aumenta ancora di più.
 * Le informazioni della ricetta tornano a disporsi una sotto l’altra.
 * Il video e le altre informazioni della ricetta si dispongono uno accanto all’altro.
 * Compaiono i nomi delle piattaforme social.

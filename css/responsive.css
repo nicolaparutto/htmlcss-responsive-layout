@@ -1,1 +1,40 @@
 /* Soluzione qui */
+@media screen and (min-width: 768px) {
+   .btn{
+      padding: 10px 50px;
+   }
+   .ads{
+      display: block;
+   }
+   main{
+      padding: 40px;
+   }
+   #topbar{
+      justify-content: left;
+   }
+   .recipe-name{
+      font-size: 1.7rem;
+   }
+   .recipe-origin{
+      display: inline-block;
+   }
+   .quick-notes ul{
+      display: flex;
+      flex-wrap: wrap;
+   }
+   .quick-notes ul li{
+      width: 33%;
+   }
+   .clearfix img{
+      float: left;
+      margin-right: 5px;
+   }
+   p.clearfix{
+      font-weight: 300;
+   }
+}
+
+@media screen and (min-width: 992px) {
+
+   
+}
